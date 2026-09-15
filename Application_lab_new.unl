@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lab name="Application_lab_new" version="1" scripttimeout="300" lock="0">
+  <topology>
+    <nodes>
+      <node id="1" name="PaloAlto" type="qemu" template="paloalto" image="paloalto-11.2.5" console="vnc" cpu="2" cpulimit="0" ram="8192" ethernet="8" uuid="bf30db33-05b7-448b-b15e-94c86f0e4fe2" qemu_options="-machine type=pc,accel=kvm -nographic -rtc base=utc -cpu host" qemu_version="2.12.0" qemu_arch="x86_64" delay="0" icon="Firewall-2D-PA-S.svg" config="0" left="666" top="273"/>
+    </nodes>
+  </topology>
+</lab>
