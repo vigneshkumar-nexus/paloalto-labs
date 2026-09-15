@@ -5,23 +5,6 @@ Welcome to my **Palo Alto Labs** repository!
 
 This repository contains my hands-on lab exercises, configurations, and troubleshooting practice using **Palo Alto Next-Generation Firewalls (NGFW)**. The labs are designed to strengthen my understanding of network security concepts and prepare for real-world firewall administration.
 
-## 📂 Repository Structure
-
-```text
-paloalto-labs/
-│
-├── Basic-Configuration/
-├── Security-Policies/
-├── NAT/
-├── VPN/
-├── App-ID/
-├── User-ID/
-├── URL-Filtering/
-├── Threat-Prevention/
-├── High-Availability/
-├── Troubleshooting/
-└── Images/
-```
 
 ## 🧪 Lab Topics
 
